@@ -3,22 +3,22 @@ This repository contains a well-organized collection of SQL queries addressing b
 
 ## 📂 Structure
 Each .sql file corresponds to a specific question and encompasses the following areas:
-Key Performance Indicators (KPIs)
-Customer & Segment Analysis
-Product & Category Insights
-Regional & Shipping Performance
-Advanced Insights (Trends, Negative Profits, Month-to-Month Changes)
+1.  Key Performance Indicators (KPIs)
+2.  Customer & Segment Analysis
+3.  Product & Category Insights
+4.  Regional & Shipping Performance
+5.  Advanced Insights (Trends, Negative Profits, Month-to-Month Changes)
 
 ## Skills Demonstrated
-Data aggregation techniques (SUM, AVG, COUNT)
-Common Table Expressions (CTEs) and window functions (LAG, PARTITION BY)
-Scalar subqueries and CROSS JOIN
-Performance analysis across various business dimensions
+-  Data aggregation techniques (SUM, AVG, COUNT)
+-  Common Table Expressions (CTEs) and window functions (LAG, PARTITION BY)
+-  Scalar subqueries and CROSS JOIN
+-  Performance analysis across various business dimensions
 
 Each section is addressed with:
-Business queries
-SQL solutions
-Observations
+-  Business queries
+-  SQL solutions
+-  Observations
 
 This project serves as a cornerstone of my portfolio, showcasing my ability to leverage SQL for analysis and Excel for dashboarding.
 
