@@ -24,7 +24,3 @@ Observations
 
 This project serves as a cornerstone of my portfolio, showcasing my ability to leverage SQL for analysis and Excel for dashboarding.
 
-## 1️⃣ Core KPI Queries
-Business Question: What are the total sales, profit, discount, and quantity across the dataset, the average sales per order, and the total number of transactions?
-
-## SQL solutions
