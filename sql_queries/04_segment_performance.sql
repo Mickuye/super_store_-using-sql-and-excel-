@@ -10,15 +10,15 @@ WITH table1 AS (
 table2 AS (
     SELECT 
         segment, 
-        SUM(profit) AS Total_Profit
+        (SUM(profit) / (SELECT SUM(profit) FROM superstore_orders)) * 100 AS Profit_Percentage
     FROM superstore_orders
     GROUP BY segment
-    ORDER BY Total_Profit DESC
+    ORDER BY Profit_Percentage DESC
 )
 SELECT 
     t1.segment,
     t1.Total_Sales,
-    t2.Total_Profit
+    t2.Profit_Percentage
 FROM table1 t1
 JOIN table2 t2 
     ON t1.segment = t2.segment
