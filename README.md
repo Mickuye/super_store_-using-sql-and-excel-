@@ -1,5 +1,3 @@
-# super_store_-using-sql-and-excel-
-
 ## Superstore Data SQL Portfolio
 This repository contains a well-organized collection of SQL queries addressing business questions derived from the Superstore dataset. It highlights my SQL skills in exploring data, performing analysis, and generating actionable insights for business intelligence.
 
