@@ -3,7 +3,7 @@ Business Question: What are the total sales, profit, discount, and quantity acro
 
 ## SQL solutions
 -  [Total Sales, Profit, Discount and Quantity](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/85fef45748cc6f4d26a5cde07a9415eb1edd60ff/sql_queries/01_total_kpis.sql)
--  [Average_sales_per_order](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/85fef45748cc6f4d26a5cde07a9415eb1edd60ff/sql_queries/02_avg_sales_per_order.sql)
+-  [Average sales per order](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/85fef45748cc6f4d26a5cde07a9415eb1edd60ff/sql_queries/02_avg_sales_per_order.sql)
 -  [Total numbers of transactions](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/ab25a8c382387ad169a799e594f383c341c25bf5/sql_queries/03_total_transactions.sql)
 
   <img width="511" height="130" alt="image" src="https://github.com/user-attachments/assets/56e439b5-a205-4b40-90d1-55705b4a8367" />
@@ -17,4 +17,6 @@ An analysis of the key performance indicators reveals that the dataset shows tot
 Business Question: This analysis aims to identify which customer segment generates the highest sales and profit, determine the top 10 customers by sales, and assess the average order value across different segments.
 
 ##  SQL solutions
--  
+-  [Customer with Highest sales & Profit](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/04_segment_performance.sql)
+-  [Top 10 customers by sales](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/05_top_customers.sql) Additionally, a deep insoght alongside their respective profit 
+-  [Average order value by segment](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/06_avg_order_value_segment.sql)
