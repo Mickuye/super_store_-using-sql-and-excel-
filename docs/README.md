@@ -20,3 +20,10 @@ Business Question: This analysis aims to identify which customer segment generat
 -  [Customer with Highest sales & Profit](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/04_segment_performance.sql)
 -  [Top 10 customers by sales](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/05_top_customers.sql) Additionally, a deep insoght alongside their respective profit 
 -  [Average order value by segment](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/06_avg_order_value_segment.sql)
+
+  <img width="289" height="390" alt="image" src="https://github.com/user-attachments/assets/8ba8cf1a-a86f-49ce-ae34-3e4726a91052" />
+  <img width="356" height="268" alt="image" src="https://github.com/user-attachments/assets/2a5c3cd2-d05d-4618-807b-3e9c355034aa" />
+  <img width="283" height="85" alt="image" src="https://github.com/user-attachments/assets/2ddd0e0d-e97c-4658-9702-950c9e91dd9e" />
+
+
+
