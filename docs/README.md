@@ -3,3 +3,4 @@ Business Question: What are the total sales, profit, discount, and quantity acro
 
 ## SQL solutions
 [01_total_kpis](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/85fef45748cc6f4d26a5cde07a9415eb1edd60ff/sql_queries/01_total_kpis.sql)
+[02_avg_sales_per_order](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/85fef45748cc6f4d26a5cde07a9415eb1edd60ff/sql_queries/02_avg_sales_per_order.sql)
