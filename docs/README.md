@@ -1,4 +1,4 @@
-## 1️⃣ Core KPI Queries
+## 🔹 Core KPI Queries
 Business Question: What are the total sales, profit, discount, and quantity across the dataset, the average sales per order, and the total number of transactions?
 
 ## SQL solutions
@@ -13,3 +13,8 @@ Business Question: What are the total sales, profit, discount, and quantity acro
 ## Observation
 An analysis of the key performance indicators reveals that the dataset shows total sales worth **$2,292,669**, yielding a profit of **$286,397** from the sale of **37,873** units, with discounts amounting to **1,561**. The average sales per order stands at **$458**, indicating a typical revenue per transaction. These metrics offer a clear snapshot of the business’s overall performance, shedding light on trends in revenue generation, profitability, and sales volume across various regions.
 
+## 🔹 Customer & Segment Analysis
+Business Question: This analysis aims to identify which customer segment generates the highest sales and profit, determine the top 10 customers by sales, and assess the average order value across different segments.
+
+##  SQL solutions
+-  
