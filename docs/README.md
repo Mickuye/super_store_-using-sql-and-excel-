@@ -13,6 +13,10 @@ Business Question: What are the total sales, profit, discount, and quantity acro
 ## Observation
 An analysis of the key performance indicators reveals that the dataset shows total sales worth **$2,292,669**, yielding a profit of **$286,397** from the sale of **37,873** units, with discounts amounting to **1,561**. The average sales per order stands at **$458**, indicating a typical revenue per transaction. These metrics offer a clear snapshot of the business’s overall performance, shedding light on trends in revenue generation, profitability, and sales volume across various regions.
 
+
+
+
+
 ## 🔹 Customer & Segment Analysis
 Business Question: This analysis aims to identify which customer segment generates the highest sales and profit, determine the top 10 customers by sales, and assess the average order value across different segments.
 
@@ -33,7 +37,37 @@ With a total sales of $1,159,839.44 **Conusmer segment** , contributing approxim
 **Top 10 Customers:**
 The leading customer by total sales was **Sean Miller**, with **$25,043** in sales; however, his transactions resulted in a **deficit of –$1,980.75** in profit, reflecting unprofitable sales likely due to discounting or low margins. Adjusting for profitability, **Tamara Chand** emerges as the true leader, contributing **$19,052.22** in sales alongside a substantial **$8,981.32 in profit**.
 
-**Recommendation:**
+## Recommendation:
 It is advisable to review discounting and pricing strategies for high-volume customers like Sean Miller to ensure that strong sales figures are aligned with profitability goals. Strengthening such policies can help maximize revenue without compromising margins.
+
+
+## 🔹 Product & Category Analysis
+This analysis aims to assess the sales and profit distribution across different product categories. It will identify which sub-category boasts the highest profit margin and pinpoint the top five most profitable products. 
+
+## SQL solutions
+-  [Sales and Profit breakdown by Product category]( https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/a589558635411e88795f60c5f738d37798523757/sql_queries/07_category_breakdown.sql)
+-  [The Sub-category with the highest profit margin]( https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/a589558635411e88795f60c5f738d37798523757/sql_queries/08_highest_profit_margin_subcategory.sql)
+-  [Top 5 most profitable products]( https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/a589558635411e88795f60c5f738d37798523757/sql_queries/09_top_profitable_products.sql)
+
+<img width="325" height="215" alt="image" src="https://github.com/user-attachments/assets/b71830cb-fc96-482a-a2f3-3942905c213a" />
+<img width="254" height="348" alt="image" src="https://github.com/user-attachments/assets/0eff4de6-c78b-4da6-862d-ad08425ca7a4" />
+<img width="667" height="125" alt="image" src="https://github.com/user-attachments/assets/6cf7d2ae-e8af-4392-906e-4a6d6636caa2" />
+
+## Observations:
+
+•	 **Category Performance:** The **Technology category** exhibits the highest sales figures, amounting to **$836,154**, alongside profits totaling $145,455. This is followed by **Office Supplies**, which achieved sales of **$718,511** and a profit of **$122,491**. In contrast, while **Furniture** recorded comparable sales of **$738,005**, its profit markedly lagged at **$18,451**, indicating considerably weaker margins.
+
+•	**Sub-Category Profit Margins:** The Labels sub-category achieved the highest profit margin at 44%, trailed closely by **Paper at 43% and Envelopes at 42%**. Conversely, categories including **Tables (–9%), Bookcases (–3%), and Supplies (–3%)** demonstrated negative margins, which signal ongoing unprofitability.
+
+•	 **Top Products:** The most profitable product identified is the Canon **imageCLASS 2200 Advanced Copier**, generating a profit of **$25,199.94**. It is followed by the **Fellowes PB500 Binding Machine**, with a profit of **$7,753.06**, and the **HP LaserJet 3310 Copier**, yielding $6,983.89 in profit.
+
+## Recommendations:
+
+•	It is advisable to reevaluate the Furniture category, with particular emphasis on **sub-categories** such as **Tables and Bookcases**, in order to identify potential issues related to costs, pricing, or discounting that may be adversely affecting profit margins.
+
+•	Marketing and sales strategies should prioritize high-performing sub-categories such as **Labels, Paper, and Envelopes**, which consistently deliver strong profit margins.
+
+•	Efforts should be directed toward enhancing supplier relationships or renegotiating contracts for low-margin products. Additionally, inventory management and promotional strategies should center on the top five most profitable products to maximize overall profitability.
+
 
 
