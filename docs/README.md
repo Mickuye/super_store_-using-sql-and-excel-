@@ -25,5 +25,15 @@ Business Question: This analysis aims to identify which customer segment generat
   <img width="356" height="268" alt="image" src="https://github.com/user-attachments/assets/2a5c3cd2-d05d-4618-807b-3e9c355034aa" />
   <img width="283" height="85" alt="image" src="https://github.com/user-attachments/assets/2ddd0e0d-e97c-4658-9702-950c9e91dd9e" />
 
+## Observation
+
+**Customer segement Performance:**
+With a total sales of $1,159,839.44 **Conusmer segment** , contributing approximately 46% of the total profit with an avearge order value of $449. This was followed by the **Corporate segment**, while the **Home Office** segment recorded the lowest performance in this category.
+
+**Top 10 Customers:**
+The leading customer by total sales was **Sean Miller**, with **$25,043** in sales; however, his transactions resulted in a **deficit of –$1,980.75** in profit, reflecting unprofitable sales likely due to discounting or low margins. Adjusting for profitability, **Tamara Chand** emerges as the true leader, contributing **$19,052.22** in sales alongside a substantial **$8,981.32 in profit**.
+
+**Recommendation:**
+It is advisable to review discounting and pricing strategies for high-volume customers like Sean Miller to ensure that strong sales figures are aligned with profitability goals. Strengthening such policies can help maximize revenue without compromising margins.
 
 
