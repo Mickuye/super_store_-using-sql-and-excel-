@@ -119,6 +119,53 @@ The Advanced Insights analysis examines yearly sales and profit trends, evaluate
 -  [Monthly Profit change by Year](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/16_monthly_profit_change.sql)
 -  [Monthly Sales change by Year](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/17_monthly_sales_change.sql)
 
+<img width="405" height="172" alt="image" src="https://github.com/user-attachments/assets/2b147d36-683c-49a5-849f-b9a0910534c6" />
+<img width="329" height="228" alt="image" src="https://github.com/user-attachments/assets/29d462f6-93c0-4fc3-a6c3-a174e8931558" />
+<img width="310" height="258" alt="image" src="https://github.com/user-attachments/assets/c027f57d-01e3-4b38-b132-c253e81cea66" />
+<img width="387" height="106" alt="image" src="https://github.com/user-attachments/assets/f1813fee-1f74-4d6f-ab92-56bc38a12780" />
+<img width="230" height="95" alt="image" src="https://github.com/user-attachments/assets/942f43af-f6c1-4c24-9b57-6733c7036a47" />
+
+
+**OBSERVATION**
+
+  **Yearly Trend:**
+  Sales and profit generally trended upward from 2014 to 2017, with sales growing from $479,716 in 2014 to $733,215 in 2017. Profit followed a similar pattern, rising from $49,544 in 2014   to $93,439 in 2017. The strongest profit growth was recorded in 2016 (+33%), while 2017 showed strong sales growth (+20%) but slower profit growth (+14%), suggesting margin pressure.
+  
+  **Category Contribution to Profit:**
+	-  Technology is the most profitable category, contributing 51% of total profit.
+	-  Office Supplies contributes 43%, showing resilience despite lower ticket prices.
+	-  Furniture contributes only 6%, marking it as the least profitable category.
+  
+  **Orders with Negative Profit:**
+Significant losses were recorded across several sub-categories, including:
+  -	Furniture → Tables (–$32,412), Bookcases (–$12,152), Chairs (–$9,881).
+  -	Office Supplies → Binders (–$38,511), Appliances (–$8,630).
+  -	Technology → Machines (–$30,112), Phones (–$7,531).
+  
+These consistent losses indicate issues with pricing, discounting, or cost management.
+
+  **Month-to-Month % Change in Profit:**  Profit performance was highly volatile across months and years.
+  -	Spikes include April 2014 (+599.54%), December 2016 (+345.86%), and March 2017 (+814.07%).
+  -	Sharp declines occurred in August 2014 (–731.99%), February 2015 (–185.76%), and April 2017 (–93.67%).
+    
+This highlights unstable profitability, likely driven by inconsistent discounting and seasonal demand shifts.
+
+  **Month-to-Month % Change in Sales:**  Sales also showed major swings, with extreme highs and lows.
+
+  -	Surges include March 2014 (+1031.87%), March 2015 (+224.03%), and September 2016 (+135.93%).
+  -	Declines include February 2014 (–68.25%), February 2017 (–53.83%), and April 2017 (–37.96%).
+    
+These fluctuations point to seasonal purchasing cycles and reliance on peak months for revenue.
+
+**RECOMMENDATIONS**
+
+-	**Leverage High-Performing Categories:** Focus investment on Technology and Office Supplies, which account for 94% of profits, while reassessing Furniture’s role in the portfolio.
+-	**Reduce Negative Profit Orders:** Tighten discounting policies and review supply chain costs for loss-heavy sub-categories like Binders, Tables, and Machines.
+-	**Stabilize Margins:** Address volatility by forecasting seasonal trends, aligning inventory with peak months, and setting clearer margin thresholds during promotions.
+-	**Profitability by Month:** Replicate strategies from high-profit months (e.g., March, December) in weaker months, while investigating cost or discount drivers in high-loss months.
+-	**Risk Management:** Build a month-level forecasting model to anticipate profit/sales swings and manage resources proactively.
+
+
 
 
 
