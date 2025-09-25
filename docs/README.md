@@ -113,7 +113,11 @@ California ($457,688) and New York ($308,425) dominate, together accounting for 
 The Advanced Insights analysis examines yearly sales and profit trends, evaluates each category’s contribution to total profit, identifies loss-making orders and their associated categories, and tracks month-to-month percentage changes in both sales and profit.
 
 **SQL SOLUTIONS**
-
+-  [Yearly Trends of Sales & Profit](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/13_yearly_trends.sql)
+-  [Category profit contibution by total profit](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/14_category_profit_contribution.sql)
+-  [Negative Profit orders by Categories & Sub- category](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/15_negative_profit_orders.sql)
+-  [Monthly Profit change by Year](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/16_monthly_profit_change.sql)
+-  [Monthly Sales change by Year](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/5a84308997c26603cb2f0e840ef3572f14e86397/sql_queries/17_monthly_sales_change.sql)
 
 
 
