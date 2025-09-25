@@ -81,5 +81,6 @@ The Regional and Shipping Analysis reviews sales and profit distribution by regi
 **SQL SOLUTIONS**
 
 [Regional Sales and Profit](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/59439a4275c57344b193cc8d58698e945fa42ee9/sql_queries/10_region_breakdown.sql)
+[Shipping Mode Performance](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/f623b31c796b18fe0f5d349df56376e19fe8c9ae/sql_queries/11_shipping_mode_performance.sql)
 
 
