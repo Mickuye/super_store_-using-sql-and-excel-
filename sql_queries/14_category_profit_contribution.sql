@@ -1,4 +1,14 @@
-#14. What is the percentage contribution of each category to total profit?
+#14. What is the percentage contribution of each category to total profit?  (#using SCALAR SUBQUERY or CTE + CROSS JOIN )
+
+ #SCALAR SUBQUERY 
+    
+    SELECT Category,
+		   sum(Profit) / (SELECT sum(profit) FROM superstore_orders) AS percentage
+	FROM superstore_orders
+	GROUP BY Category;
+
+#CTE + CROSS JOIN.   
+    
 WITH table1 AS (
     SELECT category, SUM(profit) AS total_profit
     FROM superstore_orders
