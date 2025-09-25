@@ -30,7 +30,8 @@ Business Question: This analysis aims to identify which customer segment generat
 
   <img width="289" height="390" alt="image" src="https://github.com/user-attachments/assets/8ba8cf1a-a86f-49ce-ae34-3e4726a91052" />
   <img width="356" height="268" alt="image" src="https://github.com/user-attachments/assets/2a5c3cd2-d05d-4618-807b-3e9c355034aa" />
-  <img width="283" height="85" alt="image" src="https://github.com/user-attachments/assets/2ddd0e0d-e97c-4658-9702-950c9e91dd9e" />
+  <img width="275" height="195" alt="image" src="https://github.com/user-attachments/assets/56489258-4f5b-49b4-a93f-b328af04bd0d" />
+
 
 **OBSERVATION**
 
@@ -55,8 +56,9 @@ This analysis aims to assess the sales and profit distribution across different 
 -  [Top 5 most profitable products]( https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/a589558635411e88795f60c5f738d37798523757/sql_queries/09_top_profitable_products.sql)
 
 <img width="325" height="215" alt="image" src="https://github.com/user-attachments/assets/b71830cb-fc96-482a-a2f3-3942905c213a" />
-<img width="254" height="348" alt="image" src="https://github.com/user-attachments/assets/0eff4de6-c78b-4da6-862d-ad08425ca7a4" />
-<img width="667" height="125" alt="image" src="https://github.com/user-attachments/assets/6cf7d2ae-e8af-4392-906e-4a6d6636caa2" />
+<img width="368" height="213" alt="image" src="https://github.com/user-attachments/assets/f7a97a82-c2ae-4fed-8406-ac493e1f6d74" />
+<img width="571" height="108" alt="image" src="https://github.com/user-attachments/assets/4ae9826c-f901-4e99-8b79-133aed1c49ba" />
+
 
 **OBSERVATION**
 
