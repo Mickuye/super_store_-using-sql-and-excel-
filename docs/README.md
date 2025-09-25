@@ -25,7 +25,7 @@ Business Question: This analysis aims to identify which customer segment generat
 **SQL SOLUTIONS**
 
 -  [Customer with Highest sales & Profit](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/04_segment_performance.sql)
--  [Top 10 customers by sales](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/05_top_customers.sql) Additionally, a deep insoght alongside their respective profit 
+-  [Top 10 customers by sales](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/05_top_customers.sql) Additionally, a deep insight alongside their respective profit 
 -  [Average order value by segment](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/7cb954f5b0250c585e506dadb8303d32d351ffe2/sql_queries/06_avg_order_value_segment.sql)
 
   <img width="289" height="390" alt="image" src="https://github.com/user-attachments/assets/8ba8cf1a-a86f-49ce-ae34-3e4726a91052" />
@@ -84,6 +84,32 @@ The Regional and Shipping Analysis reviews sales and profit distribution by regi
 
 -  [Regional Sales, Profit & Profit Margin](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/59439a4275c57344b193cc8d58698e945fa42ee9/sql_queries/10_region_breakdown.sql)
 -  [Shipping Mode Performance](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/f623b31c796b18fe0f5d349df56376e19fe8c9ae/sql_queries/11_shipping_mode_performance.sql)
--  [Top States by Sales](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/b9173814f24e1b14bea2389ad75c72436afd4304/sql_queries/12_top_states_by_sales.sql)
+-  [Top Performing States by Sales](https://github.com/Mickuye/super_store_-using-sql-and-excel-/blob/b9173814f24e1b14bea2389ad75c72436afd4304/sql_queries/12_top_states_by_sales.sql)
+
+<img width="347" height="281" alt="image" src="https://github.com/user-attachments/assets/28d91ca2-e640-44d0-a45a-2600466b9d54" />
+<img width="265" height="196" alt="image" src="https://github.com/user-attachments/assets/280054cd-d791-41a1-be22-ae3d7b22f984" />
+<img width="363" height="177" alt="image" src="https://github.com/user-attachments/assets/9e0f82ff-ab8c-4ee5-9d34-c494ed01cc19" />
+
+**OBSERVATION**
+
+**Regional Sales & Profit:**
+The West region leads with $724,403 sales and $108,419 profit (15% margin), while the East follows with $676,330 sales and $91,523 profit (14% margin). The South delivers $390,696 sales and $46,750 profit (12% margin), whereas the Central region lags with $501,240 sales but only an 8% margin, making it the least profitable.
+
+**Shipping Mode Performance:**
+Same-Day delivery drives the highest average sales per order ($482), followed by Second Class ($476), Standard Class ($452), and First Class ($447), suggesting a direct link between order urgency and transaction value.
+
+**Top States by Sales Contribution:**
+California ($457,688) and New York ($308,425) dominate, together accounting for nearly 50% of top 10 sales. By contrast, Virginia contributes only $70,637, underscoring heavy reliance on a few high-performing states.
+
+**RECOMMENDATION:**
+
+-  **Boost regional profitability:** Replicate successful West/East strategies in Central and South by adapting product mix, pricing, or localized marketing.
+
+-  **Capitalize on premium shipping:** Promote Same-Day delivery as a premium service to capture higher-value customers.
+
+-  **Deepen presence in top states:** Strengthen supply chain, promotions, and partnerships in California and New York, while testing targeted campaigns in underperforming states like         Virginia and Ohio to diversify sales sources.
+
+
+
 
 
