@@ -109,6 +109,13 @@ California ($457,688) and New York ($308,425) dominate, together accounting for 
 
 -  **Deepen presence in top states:** Strengthen supply chain, promotions, and partnerships in California and New York, while testing targeted campaigns in underperforming states like         Virginia and Ohio to diversify sales sources.
 
+## 🔹 Advanced Insights
+The Advanced Insights analysis examines yearly sales and profit trends, evaluates each category’s contribution to total profit, identifies loss-making orders and their associated categories, and tracks month-to-month percentage changes in both sales and profit.
+
+**SQL SOLUTIONS**
+
+
+
 
 
 
