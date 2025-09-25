@@ -1,4 +1,10 @@
 #13. What is the yearly trend of sales and profit?
+ALTER TABLE superstore_orders
+ADD COLUMN YEAR int;
+
+UPDATE superstore_orders
+SET YEAR = YEAR(order_date);
+   
 WITH table1 AS (
     SELECT YEAR(order_date) AS Year, 
            SUM(sales) AS Total_Sales, 
